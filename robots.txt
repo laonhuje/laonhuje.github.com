@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://laonhuje.github.io/sitemap.xml 
